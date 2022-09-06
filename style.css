@@ -1,0 +1,15 @@
+.jumbotron-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.well {
+
+    outline-width: thin
+}
+body {
+    background-color: lightblue;
+}
+
